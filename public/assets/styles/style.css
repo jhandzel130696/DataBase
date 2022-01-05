@@ -1,0 +1,13 @@
+*{
+    /* box-sizing: border-box;*/
+    margin: 25px;
+    padding: 0;
+}
+
+body {
+    /*margin:50px;*/
+    font-family: sans-serif;
+    color: black;
+    background-color: white;
+    font-size: 15px;
+}
